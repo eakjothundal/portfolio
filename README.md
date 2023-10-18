@@ -45,4 +45,4 @@ If you wish to run the project locally, follow these steps:
 
 ## 💌 Feedback
 
-Your feedback is invaluable! If you have any suggestions, find any bugs, or simply want to connect, please open an issue or reach out directly.
+If you have any suggestions, find any bugs, or simply want to connect, please open an issue or reach out directly.
